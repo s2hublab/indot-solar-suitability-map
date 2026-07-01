@@ -39,7 +39,7 @@
         },
         {
           "field": "Solar_Mean",
-          "label": "Solar mean",
+          "label": "Raw solar mean",
           "type": "number",
           "precision": 0
         }
@@ -82,7 +82,7 @@
         },
         {
           "field": "Solar_Mean",
-          "label": "Solar mean",
+          "label": "Raw solar mean",
           "type": "number",
           "precision": 0
         }
@@ -154,7 +154,7 @@
         },
         {
           "field": "Solar_Mean",
-          "label": "Solar mean",
+          "label": "Raw solar mean",
           "type": "number",
           "precision": 0
         }
